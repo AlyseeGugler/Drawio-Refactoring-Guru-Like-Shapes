@@ -1,5 +1,5 @@
 # Shape Libraries for Diagrams.net
-This project provides shape libraries for diagrams.net (formerly known as draw.io) inspired by the illustrations of the famous website refactoring.guru. Currently, the project only contains shape libraries for class diagrams, but more UML shapes with this style will be added in the future.
+This project provides shape libraries for diagrams.net (formerly known as draw.io) inspired by the illustrations of the famous website [refactoring.guru](https://refactoring.guru). Currently, the project only contains shape libraries for class diagrams, but more UML shapes with this style will be added in the future.
 
 ## Getting Started
 To use these shape libraries in diagrams.net, follow these steps:
