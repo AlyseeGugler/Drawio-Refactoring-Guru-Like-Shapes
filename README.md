@@ -14,6 +14,9 @@ Here are some examples of class diagrams created using the shape libraries in th
 ### Singleton
 <img src="https://github.com/AlyseeGugler/Drawio-RGLike-Shapes/blob/main/Shapes/Class%20Diagram/Examples/Singleton.png?raw=true" alt= “Singleton” width="50%" height="50%">
 
+### Iterator
+<img src="https://github.com/AlyseeGugler/Drawio-RGLike-Shapes/blob/main/Shapes/Class%20Diagram/Examples/Iterator.png?raw=true" alt= “Singleton” width="50%" height="50%">
+
 ## Contributing
 Contributions to this project are welcome and encouraged! If you would like to add new shapes or improve existing ones, please follow these guidelines:
 
