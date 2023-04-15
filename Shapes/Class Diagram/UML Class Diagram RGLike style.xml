@@ -1,0 +1,93 @@
+<mxlibrary>[
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"text\" style=\"endArrow=openThin;html=1;rounded=0;strokeWidth=2;strokeColor=#666666;edgeStyle=elbowEdgeStyle;endFill=0;endSize=14;dashed=1;jumpSize=6;targetPerimeterSpacing=0;elbow=vertical;fontFamily=PT Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPT%2BSans;fontColor=#666666;verticalAlign=bottom;fontSize=12;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"240\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 240,
+    "h": 0.9523809523809523,
+    "aspect": "fixed",
+    "title": "Use Link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"text\" style=\"endArrow=openThin;html=1;rounded=0;strokeWidth=2;strokeColor=#666666;edgeStyle=elbowEdgeStyle;endFill=0;endSize=14;jumpSize=6;targetPerimeterSpacing=0;elbow=vertical;fontFamily=PT Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPT%2BSans;verticalAlign=bottom;fontColor=#666666;fontSize=12;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"230\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 230,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Navigation Link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"text\" style=\"endArrow=openThin;html=1;rounded=0;strokeWidth=2;strokeColor=#666666;edgeStyle=elbowEdgeStyle;endFill=0;endSize=14;jumpSize=6;targetPerimeterSpacing=0;elbow=vertical;startArrow=diamondThin;startFill=0;startSize=14;fontFamily=PT Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPT%2BSans;fontSize=12;verticalAlign=bottom;fontColor=#666666;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"230\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 230,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Aggregation Link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"text\" style=\"endArrow=openThin;html=1;rounded=0;strokeWidth=2;strokeColor=#666666;edgeStyle=elbowEdgeStyle;endFill=0;endSize=14;jumpSize=6;targetPerimeterSpacing=0;elbow=vertical;startArrow=diamondThin;startFill=1;startSize=14;fontSize=12;fontFamily=PT Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPT%2BSans;fontColor=#666666;verticalAlign=bottom;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint y=\"0.060000000000002274\" as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"230\" y=\"0.060000000000002274\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 230,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Composition Link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;strokeColor=#B0B0B0;edgeStyle=elbowEdgeStyle;elbow=vertical;fontSize=12;fontFamily=PT Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPT%2BSans;verticalAlign=bottom;fontColor=#B0B0B0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"170\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 170,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Note Link 1"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=none;dashed=1;html=1;rounded=0;strokeWidth=2;strokeColor=#B0B0B0;elbow=vertical;startArrow=circle;startFill=1;fillOpacity=0;startSize=3;fontFamily=PT Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPT%2BSans;fontSize=12;verticalAlign=bottom;fontColor=#B0B0B0;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"160\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 160,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Note Link 2"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#666666;edgeStyle=elbowEdgeStyle;endFill=0;endSize=14;dashed=1;jumpSize=6;targetPerimeterSpacing=0;elbow=vertical;fontFamily=PT Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPT%2BSans;verticalAlign=bottom;fontColor=#666666;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"230\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 230,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Realization Link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"\" style=\"endArrow=block;html=1;rounded=0;strokeWidth=2;strokeColor=#666666;edgeStyle=elbowEdgeStyle;endFill=0;endSize=14;jumpSize=6;targetPerimeterSpacing=0;elbow=vertical;fontFamily=PT Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPT%2BSans;verticalAlign=bottom;fontSize=12;fontColor=#666666;\" edge=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"50\" height=\"50\" relative=\"1\" as=\"geometry\"&gt;&lt;mxPoint as=\"sourcePoint\"/&gt;&lt;mxPoint x=\"230\" as=\"targetPoint\"/&gt;&lt;/mxGeometry&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 230,
+    "h": 1,
+    "aspect": "fixed",
+    "title": "Generalization Link"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;i&amp;gt;&amp;lt;b&amp;gt;&amp;lt;font color=&amp;quot;#333333&amp;quot;&amp;gt;Layer Name&amp;lt;/font&amp;gt;&amp;lt;/b&amp;gt;&amp;lt;/i&amp;gt;\" style=\"rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeWidth=2;strokeColor=#B0B0B0;dashed=1;arcSize=5;fontFamily=PT Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPT%2BSans;align=left;verticalAlign=bottom;spacingLeft=4;labelPosition=center;verticalLabelPosition=top;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"310\" height=\"380\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 310,
+    "h": 380,
+    "aspect": "fixed",
+    "title": "Layer"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"Classname\" style=\"swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=25;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;perimeter=rectanglePerimeter;shadow=0;rounded=1;arcSize=5;comic=0;swimlaneFillColor=#FCFCFC;strokeWidth=2;perimeterSpacing=1;swimlaneLine=1;fontFamily=PT Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPT%2BSans;fontSize=12;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"160\" height=\"85\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"+ field: type\" style=\"text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=PT Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPT%2BSans;fontStyle=0;fontSize=12;fontColor=#333333;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"25\" width=\"160\" height=\"26\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"51\" width=\"160\" height=\"8\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"+ method(type): type\" style=\"text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=PT Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPT%2BSans;fontSize=12;fontColor=#333333;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"59\" width=\"160\" height=\"26\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 160,
+    "h": 85,
+    "aspect": "fixed",
+    "title": "Concrete Class"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;span style=&amp;quot;font-weight: normal;&amp;quot;&amp;gt;&amp;amp;lt;&amp;amp;lt;interface&amp;amp;gt;&amp;amp;gt;&amp;lt;/span&amp;gt;&amp;lt;br&amp;gt;Classname\" style=\"swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;perimeter=rectanglePerimeter;shadow=0;rounded=1;arcSize=5;comic=0;swimlaneFillColor=#FCFCFC;strokeWidth=2;perimeterSpacing=1;swimlaneLine=1;fontFamily=PT Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPT%2BSans;fontSize=12;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"160\" height=\"74\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"\" style=\"line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"40\" width=\"160\" height=\"8\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"+ method(type): type\" style=\"text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=PT Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPT%2BSans;fontSize=12;fontColor=#333333;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"48\" width=\"160\" height=\"26\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 160,
+    "h": 74,
+    "aspect": "fixed",
+    "title": "Interface"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;i&amp;gt;AbstractClassname&amp;lt;/i&amp;gt;\" style=\"swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=25;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;perimeter=rectanglePerimeter;shadow=0;rounded=1;arcSize=5;comic=0;swimlaneFillColor=#FCFCFC;strokeWidth=2;perimeterSpacing=1;swimlaneLine=1;fontFamily=PT Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPT%2BSans;fontSize=12;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"160\" height=\"85\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"3\" value=\"+ field: type\" style=\"text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;strokeWidth=1;fontFamily=PT Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPT%2BSans;fontStyle=0;fontSize=12;fontColor=#333333;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"25\" width=\"160\" height=\"26\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"4\" value=\"\" style=\"line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"51\" width=\"160\" height=\"8\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;mxCell id=\"5\" value=\"+ method(type): type\" style=\"text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;fontFamily=PT Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPT%2BSans;fontSize=12;fontColor=#333333;\" vertex=\"1\" parent=\"2\"&gt;&lt;mxGeometry y=\"59\" width=\"160\" height=\"26\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 160,
+    "h": 85,
+    "aspect": "fixed",
+    "title": "Abstract Class"
+  },
+  {
+    "xml": "&lt;mxGraphModel&gt;&lt;root&gt;&lt;mxCell id=\"0\"/&gt;&lt;mxCell id=\"1\" parent=\"0\"/&gt;&lt;mxCell id=\"2\" value=\"&amp;lt;font&amp;gt;write your notes here&amp;lt;/font&amp;gt;\" style=\"shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#EBEBEB;fontColor=#404040;strokeColor=#B0B0B0;strokeWidth=2;fontFamily=PT Sans;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DPT%2BSans;align=left;verticalAlign=top;spacingLeft=4;size=14;\" vertex=\"1\" parent=\"1\"&gt;&lt;mxGeometry width=\"220\" height=\"70\" as=\"geometry\"/&gt;&lt;/mxCell&gt;&lt;/root&gt;&lt;/mxGraphModel&gt;",
+    "w": 220,
+    "h": 70,
+    "aspect": "fixed",
+    "title": "Note"
+  }
+]</mxlibrary>
