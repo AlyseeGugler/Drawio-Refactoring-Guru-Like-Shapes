@@ -10,12 +10,18 @@ To use these shape libraries in diagrams.net, follow these steps:
 4. The shapes in the library should now be available in the "Libraries" section of the left-hand sidebar in diagrams.net.
 
 ## Examples
-Here are some examples of class diagrams created using the shape libraries in this project:
-### Singleton
+Here are some examples created using the shape libraries in this project:
+### Class Diagram
+#### Singleton
 <img src="https://github.com/AlyseeGugler/Drawio-RGLike-Shapes/blob/main/Shapes/Class%20Diagram/Examples/Singleton.png?raw=true" alt= “Singleton” width="50%" height="50%">
 
-### Iterator
-<img src="https://github.com/AlyseeGugler/Drawio-RGLike-Shapes/blob/main/Shapes/Class%20Diagram/Examples/Iterator.png?raw=true" alt= “Singleton” width="50%" height="50%">
+#### Iterator
+<img src="https://github.com/AlyseeGugler/Drawio-RGLike-Shapes/blob/main/Shapes/Class%20Diagram/Examples/Iterator.png?raw=true" alt= “Iterator” width="50%" height="50%">
+
+### Use Case Diagram
+#### Airport Check-In Example
+This example is based on the [Airport Check-In Example](https://www.uml-diagrams.org/airport-checkin-uml-use-case-diagram-example.html) from [uml-diagrams.org](https://uml-diagrams.org).
+<img src="https://github.com/AlyseeGugler/Drawio-RGLike-Shapes/blob/main/Shapes/Use%20Case%20Diagram/Examples/Airport%20Check-In.png?raw=true" alt= “Airport Check-In” width="50%" height="50%">
 
 ## Contributing
 Contributions to this project are welcome and encouraged! If you would like to add new shapes or improve existing ones, please follow these guidelines:
@@ -27,5 +33,5 @@ Contributions to this project are welcome and encouraged! If you would like to a
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
+## Contact
 If you have any questions, feedback, or suggestions for this project, please feel free to open an [issue](https://github.com/AlyseeGugler/Drawio-RGLike-Shapes/issues) on GitHub. I will do my best to respond promptly and help you in any way I can.
