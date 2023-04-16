@@ -13,9 +13,11 @@ To use these shape libraries in diagrams.net, follow these steps:
 Here are some examples created using the shape libraries in this project:
 ### Class Diagram
 #### Singleton
+This example is based on the [Singleton Example](https://refactoring.guru/design-patterns/singleton) from [refactoring.guru](https://refactoring.guru)
 <img src="https://github.com/AlyseeGugler/Drawio-RGLike-Shapes/blob/main/Shapes/Class%20Diagram/Examples/Singleton.png?raw=true" alt= “Singleton” width="50%" height="50%">
 
 #### Iterator
+This example is based on the [Iterator Example](https://refactoring.guru/design-patterns/iterator) from [refactoring.guru](https://refactoring.guru)
 <img src="https://github.com/AlyseeGugler/Drawio-RGLike-Shapes/blob/main/Shapes/Class%20Diagram/Examples/Iterator.png?raw=true" alt= “Iterator” width="50%" height="50%">
 
 ### Use Case Diagram
